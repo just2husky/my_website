@@ -20,7 +20,7 @@ Chao Zhang (张超) is a Senior Game Development Engineer in Netease Game (Hangz
 ***
 **[Netease Game](https://www.neteasegames.com/ "5th largest video game companies by market cap worldwide")**, Senior Game Development Engineer, Full Time Job, Jul 2019 - Today, Hangzhou, China
 
-**[SAP Software Solutions](https://www.sap.com/index.html "World's leading ERP software vendor")**, Software Development Inetrn, Vocational Training Program, Jun 2018 - Sep 201, Chengdu, China
+**[SAP Software Solutions](https://www.sap.com/index.html "World's leading ERP software vendor")**, Software Development Inetrn, Vocational Training Program, Jun 2018 - Sep 2018, Chengdu, China
 
 **[Primarius Technologies Co., Ltd.](https://www.primarius-tech.com/en "Used to be acquired by Cadence Design System")**, echnical Support Intern, Apr 2016 - Aug 2016, Jinan, China
 
